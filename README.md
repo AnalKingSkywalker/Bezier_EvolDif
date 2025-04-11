@@ -10,3 +10,6 @@ This is "Refineria" is a Mexican Flame Knee tarantula Brachypelma Auratum
 
 <img src="imagenes/refineria.jpeg" alt="Descripción" width="300"/>
 
+It is our test subject, from it we will obtain the movement trajectories of its legs.
+
+How can we do that?
