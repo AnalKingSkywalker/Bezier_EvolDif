@@ -14,4 +14,4 @@ It is our test subject, from it we will obtain the movement trajectories of its 
 
 ## How can we make it possible?
 
-adj w lodawjd;lkadw
+Thanks to the contrast of coloration in their joints we can use software such as TALI to obtain their movement trajectories.
