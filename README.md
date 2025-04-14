@@ -14,5 +14,15 @@ This is "Refineria" is a Mexican Flame Knee tarantula Brachypelma Auratum
 It is our test subject, from it we will obtain the movement trajectories of its legs.
 
 ## How can we make it possible?
-
+<div align="justify">
 Thanks to the contrast of coloration in their joints we can use software such as Tracker (https://opensourcephysics.github.io/tracker-website/) to obtain their movement trajectories.
+But this data is in spatial space, so we need to transform it into angular space using trigonometric techniques.
+The first data obtained looks like this:
+ GRAF HERE
+
+The data in angular space look like this:
+
+GRAF ANG HERE
+
+  
+</div>
